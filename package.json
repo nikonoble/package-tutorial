@@ -1,0 +1,22 @@
+{
+  "name": "npm",
+  "version": "1.0.0",
+  "description": "Practice package to learn",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nikonoble/package-tutorial.git"
+  },
+  "keywords": [
+    "MIT"
+  ],
+  "author": "nikonoble <nikonoble30@gmail.com> (https://www.npmjs.com/~nikonoble)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nikonoble/package-tutorial/issues"
+  },
+  "homepage": "https://github.com/nikonoble/package-tutorial#readme"
+}
